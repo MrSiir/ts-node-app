@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    ".gitignore": true,
+    "yarn.lock": true,
+    "package-lock.json": true,
+    "**/.vscode": true,
+    "**/.husky": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/*.bat": true,
+    "**/*.sh": true,
+    "**/*.ps1": true,
+    "**/*~": true,
+    "**/~**~": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.trimTrailingWhitespace": true
+}
